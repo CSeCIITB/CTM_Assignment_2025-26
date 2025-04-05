@@ -1,4 +1,4 @@
-#Alcatraz
+# Alcatraz
 
 You are given a python file alcatraz.py  In you main machine you need to create a file named "flag.txt" (without the quotes).
 
