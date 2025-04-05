@@ -7,6 +7,16 @@ This assignment will help guage your level of comfort with basic design tools (w
 
 While we understand that many of you may not have past experience with design, fear not! Try to focus on communicating the important details and designing something that looks good to you. Think of this as an opportunity to learn. We are excited to see how you approach it.
 
+### Submission Details
+
+Submission can be in any digital format such as PDF, PNG etc. You can use tools like Canva, Figma or any other tool you are comforable with.
+
+For being considered as a CTM applicant it is **Mandatory** to submit at least one of these designs. 
+
+You're welcome—and encouraged—to submit **both**, but submitting at least one is **compulsory** for your application to be considered.
+
+
+
 Enough blabbering from our side—let’s dive into the assignments and see what you’ve got!
 
 ## 1: 🎨 Design a T-Shirt or Hoodie for the Cybersecurity Community! 🔒👕
@@ -48,13 +58,6 @@ This poster will be the first thing freshers see—so it should be interesting a
 Let the fun begin. We’re excited to see what you come up with! 🔓💥
 
 
-### Submission Details
-
-Submission can be in any digital format such as PDF, PNG etc. You can use tools like Canva, Figma or any other tool you are comforable with.
-
-For being considered as a CTM applicant it is **Mandatory** to submit at least one of these designs. 
-
-You're welcome—and encouraged—to submit **both**, but submitting at least one is **compulsory** for your application to be considered.
 
 
 📢 Note:
