@@ -16,6 +16,6 @@ To be considered for the position of CTM it is **mandatory** to submit the desig
 
 
 
-flag format: CSeC{}
+Flag format: CSeC{}
 
 
