@@ -11,7 +11,7 @@ For challenges that you solve it will be sufficient to explain the method by whi
 For challenges you are unable to solve your writeup should contain **all** the approaches you tried. Selection is not based on just finding the correct flag, we also want to see your thinking hence the writeups are crucial.
 
 ## Submission instructions
-Here is the submission form: 
+Here is the [submission form](https://forms.gle/fDLmV2TLVm7mZJC39)
 
 To submit create a google drive folder with appropriate sub-directories for each of the challenges. If there's a flag have it in a file called flag.txt also include a writeup in the directory. You will have to submit a link with the drive folder. (Don't forget to set visibility to anyone with link!)
 
