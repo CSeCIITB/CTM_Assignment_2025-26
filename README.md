@@ -17,5 +17,6 @@ To be considered for the position of CTM it is **mandatory** to submit the desig
 
 
 Flag format: CSeC{}
+Here are some [resources to get you started](https://cseciitb.github.io/resources/)
 
 
