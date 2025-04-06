@@ -21,7 +21,7 @@ Enough blabbering from our side—let’s dive into the assignments and see what
 
 ## 1: 🎨 Design a T-Shirt or Hoodie for the Cybersecurity Community! 🔒👕
 
-This is your chance to leave a visual mark on the community—get creative, go wild, and show us your style! Whether it’s minimalist or chaotic, punny or edgy, techy or artsy, we want to see your take on what a Cybersecurity Community tee/hoodie should look like.
+This is your chance to leave a visual mark on the community get creative, and show us your style!, we want to see your take on what a Cybersecurity Community tee/hoodie should look like.
 
 A few ideas to spark your imagination:
 
