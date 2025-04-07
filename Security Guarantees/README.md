@@ -14,6 +14,7 @@ Note: The flag present in the binary is just a **placeholder**. You’ll have to
 # Instructions
 
 This challenge, along with the bonus, will be a great introduction to binary exploitation — a field that often seems mysterious even to some moderately experienced people.
+Begin by downloading the entire folder (all the files are needed)
 
 ---
 
@@ -37,7 +38,7 @@ sudo apt update
 sudo apt install -y patchelf elfutils
 ```
 
-Once installed, navigate to the folder containing the binary and run:
+Once installed, navigate to the folder (Security Guarantees) containing the binary and run:
 
 ```bash
 pwninit
