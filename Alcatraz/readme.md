@@ -1,6 +1,6 @@
 # Alcatraz
 
-You are given a python file alcatraz.py  In you main machine you need to create a file named "flag.txt" in the same folder as jail.py (without the quotes).
+You are given a python file jail.py  In you main machine you need to create a file named "flag.txt" in the same folder as jail.py (without the quotes).
 
 Now to solve the challenge you need to run `python3 jail.py` and provide an input that prints the contents of the flag.txt file (add a dummy flag for testing)
 
